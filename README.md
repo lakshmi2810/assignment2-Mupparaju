@@ -5,25 +5,15 @@ A tour through the Louvre Museum's extensive galleries provides a crash course i
 ***
 ### Directions to Museum
 The nearest airport to The Louvre is Paris Orly (ORY) Airport. Once you are out of airport take the following steps:
-
-
-Go straight and take left to get to Rungis
-
-Keep straight and travel 2miles to castroma  
-
-from Castroma take right to head villejuif
-
-Take right at villejuif and head towards hopital bicetre
-
-You will get to valdemarne junction at then end of hopital bicetre road
-
-From Junction take left and travel 3miles
-
-At jardin des Plantes take left and head straight
-
-Make a U-Turn at Musee Rodin 
-
-Travel 0.5 mile from Musee Rodin and you see the destination(Lourve Museum) to left.
+1. Go straight and take left to get to Rungis
+2. Keep straight and travel 2miles to castroma  
+3. from Castroma take right to head villejuif
+4. Take right at villejuif and head towards hopital bicetre
+5. You will get to valdemarne junction at then end of hopital bicetre road
+6. From Junction take left and travel 3miles
+7. At jardin des Plantes take left and head straight
+8. Make a U-Turn at Musee Rodin 
+9. Travel 0.5 mile from Musee Rodin and you see the destination(Lourve Museum) to left.
 ### Nearby Visiting Location from Lourve Museum
 - Eiffel Tower
 - Cathédrale Notre-Dame De Paris
