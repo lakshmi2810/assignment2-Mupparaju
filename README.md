@@ -24,4 +24,11 @@ At jardin des Plantes take left and head straight
 Make a U-Turn at Musee Rodin 
 
 Travel 0.5 mile from Musee Rodin and you see the destination(Lourve Museum) to left.
+### Nearby Visiting Location from Lourve Museum
+- Eiffel Tower
+- Cathédrale Notre-Dame De Paris
+- Musée D'Orsay
+- Musée De L'Orangerie
+- Palais Garnier
+- Place De La Concorde
 
