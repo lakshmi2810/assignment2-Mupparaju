@@ -36,7 +36,7 @@ Sometimes all we need is a break from all the hustle days we have and escape to 
 
 ***
 ### Favorite Quotes
-> Pain Pays the income most precious thing- *edward*
+> Pain Pays the income most precious thing- *Edward*
 
 
 > The only way to discover limits of possible is to go beyond impossible -*Ashley*
