@@ -28,8 +28,8 @@ Link for aboutme [AboutMe.md](https://github.com/lakshmi2810/assignment2-Muppara
 ***
 ### Places to visit 
 Sometimes all we need is a break from all the hustle days we have and escape to great cities for refreshment. The below are the best cities to go for trips:
-|  City    |    Location           |  Time Taken  |
+|  City    |    Location in city   |  Time Taken  |
 |----------|:---------------------:|-------------:|
-|Paris     |Eiffel Tower           |25            |
-|Vanves    |Palace of Verasailes   |30            |
-|Gentilly  |Pont Nuef              |55            |
+|Paris     |Eiffel Tower           |25M           |
+|Vanves    |Palace of Verasailes   |30M           |
+|Gentilly  |Pont Nuef              |55M           |
