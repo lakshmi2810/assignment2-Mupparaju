@@ -33,3 +33,10 @@ Sometimes all we need is a break from all the hustle days we have and escape to 
 |Paris     |Eiffel Tower           |25M           |
 |Vanves    |Palace of Verasailes   |30M           |
 |Gentilly  |Pont Nuef              |55M           |
+
+***
+### Favorite Quotes
+> Pain Pays the income most precious thing- *edward*
+
+
+> The only way to discover limits of possible is to go beyond impossible -*Ashley*
