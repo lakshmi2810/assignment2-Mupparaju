@@ -40,3 +40,43 @@ Sometimes all we need is a break from all the hustle days we have and escape to 
 
 
 > The only way to discover limits of possible is to go beyond impossible -*Ashley*
+
+***
+
+### Code fencing SASS
+
+
+> Mixins Gradient for IE8
+
+<https://stackoverflow.com/questions/31651603/mixins-gradient-for-ie8>
+
+```
+/// Stripe builder
+/// @author Kitty Giraudel
+/// @param {Direction} $direction - Gradient direction
+/// @param {List} $colors - List of colors
+/// @output `background-image` if several colors, `background-color` if only one
+@mixin stripes($direction, $colors) {
+  $length: length($colors);
+  
+  @if $length > 1 {
+    $stripes: ();
+    
+    @for $i from 1 through $length {
+      $stripe: (100% / $length) * ($i - 1);
+      
+      @if $i > 1 {
+        $stripes: append($stripes, nth($colors, $i - 1) $stripe, comma);
+      }
+      
+      $stripes: append($stripes, nth($colors, $i) $stripe, comma);
+    }
+    
+    background-image: linear-gradient($direction, $stripes);
+  } @else if $length == 1 {
+    background-color: $colors;
+  }
+}
+
+```
+<https://css-tricks.com/snippets/sass/striped-gradient-mixin/>
